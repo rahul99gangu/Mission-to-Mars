@@ -32,7 +32,7 @@ Implement scraping program to pull the high-resolution images, updating Mongo to
 
 **Sources**
 
-1. [Mission_to_Mars.ipynb](Mission_to_Mars.ipynb)
-2. [scraping.py](scraping.py)
-3. [app.py](app.py)
-4. [index.html](/templates/index.html)
+1. Mission_to_Mars_Challenge.ipynb
+2. scraping.py
+3. app.py
+4. index.html
